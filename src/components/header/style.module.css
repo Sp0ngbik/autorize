@@ -1,0 +1,15 @@
+.headerStyle{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+.headerStyle a{
+    font-size: 25px;
+    color: #fff;
+
+    align-items: center;
+    width: 100%;
+    flex-wrap: nowrap;
+    text-decoration: none;
+}
