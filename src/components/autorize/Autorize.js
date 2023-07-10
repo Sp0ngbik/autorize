@@ -11,7 +11,11 @@ const Autorize = () => {
   return (
     <div className={style.autorizeFormStyle}>
       <form onSubmit={(e) => e.preventDefault()}>
-        <input onChange={(e) => formSet(e)} name="login" placeholder="Логин" />
+        <input
+          onChange={(e) => formSet(e)}
+          name="login"
+          placeholder="Логинasdasdasd"
+        />
         <input
           onChange={(e) => formSet(e)}
           name="password"
