@@ -18,7 +18,7 @@ const Register = () => {
             registerDataHandler(e);
           }}
           name="login"
-          placeholder="Логин"
+          placeholder="Юзер"
         />
         <input
           onChange={(e) => {
